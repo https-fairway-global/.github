@@ -1,9 +1,8 @@
 # Fairway 
 ## Advanced Recruitment Platform using resilient Blochain of Cardano
 
-- Fairway Business Website [Fairway Business Website](https://fairway.global/)
-- Fairway Recrutment Platform [Fairway Recruitment SAAS](https://fairway.work/)
-
+- Fairway Business Website [Fairway Business Website](https://fairway.global/).
+- Fairway Recrutment Platform [Fairway Recruitment SAAS](https://fairway.work/).
 -
 ## Public Files
 - We have studied and compiled the employment policis and customes in Ethiopia in to one frame work to impiment it in our software service.
