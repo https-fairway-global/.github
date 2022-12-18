@@ -11,4 +11,5 @@
 ## Fairway Demo Videos
 - [Usage Demo Short Videos](https://www.youtube.com/watch?v=4pRClavTHpE&list=PLfzroa-7VhPaEhkvR0q9snLZm4eWGARm7)
 
-##### Get yourself familiarised on our[Test Playground](https://test.fairway.work/)
+## Playground
+- Get yourself familiarised to fairway on our [Test Playground](https://test.fairway.work/)
