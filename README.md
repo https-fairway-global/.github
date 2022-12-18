@@ -1,6 +1,6 @@
 # Fairway 
 ## Advanced Recruitment Platform using resilient Blochain of Cardano
--
+--
 - Fairway Business Website [Fairway Business Website](https://fairway.global/)
 - Fairway Recrutment Platform [Fairway Recruitment SAAS](https://fairway.work/)
 
@@ -11,5 +11,5 @@
 ---
 ### Fairway Demo Videos
 - [Usage Demo Short Videos](https://www.youtube.com/watch?v=4pRClavTHpE&list=PLfzroa-7VhPaEhkvR0q9snLZm4eWGARm7)
--
+--
 ### Get yourself familiarised on our play ground, [Test Playground](https://test.fairway.work/)
