@@ -9,7 +9,7 @@
 
 - We have compiled the Employment policis and customes in Ethiopia in to one frame work to impiment it in our software service.
 - please use the folowing link to read about our recreuitment framwork from both legal and technological perspectives.
-- [Emlpyment Credential Public Framework - Ethiopia](https://docs.google.com/document/d/1K1iPQWOODzkNNhyXoMKpgI1kttqjllbR_XtlA_mn8do/edit#)
+- [Emlpyment Credential Public Framework - Ethiopia](https://github.com/mearafGitHub/Public-files/blob/main/Employment%20Credentials%20in%20Ethiopia%20-%20Public%20Framework%20.pdf)
 
 ---
 
